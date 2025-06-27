@@ -1,0 +1,8 @@
+streamlit
+geopandas
+pandas
+numpy
+pydeck
+shapely
+h3
+scikit-learn
